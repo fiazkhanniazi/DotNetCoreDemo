@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: dotnetdocker
-        image: dotnetangulardocker/aspdotnetangular:latest # #{ImageTag}# #v10 #v2.#{Build.BuildId}#
+        image: dotnetangulardocker/aspdotnetangular:Latest # #{ImageTag}# #v10 #v2.#{Build.BuildId}#
         ports:
         - containerPort: 80
        
