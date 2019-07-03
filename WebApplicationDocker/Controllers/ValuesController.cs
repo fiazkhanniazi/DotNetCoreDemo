@@ -13,7 +13,7 @@ namespace WebApplicationDocker.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "valueoneclick", "value2" };
+            return new string[] { "Dev ops hackathone development demo" };
         }
 
         // GET api/values/5
